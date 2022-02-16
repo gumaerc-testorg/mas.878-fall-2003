@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: cd49ff23-dd56-1fba-fabc-80a347f089f4
 ---
@@ -14,7 +17,7 @@ Put together a short personal presentation describing:
 1.  Your interest or past involvement with interactive art.
 2.  Any ideas you might have for creating an art piece.
 
-Please build your presentations as something that can be put online - html pages, FlashTM animations, and QuickTime® movies are all great.
+Please build your presentations as something that can be put online - html pages, Flash{{< sup "TM" >}} animations, and QuickTime® movies are all great.
 
 Midterm Assignment
 ------------------

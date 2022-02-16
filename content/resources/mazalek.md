@@ -10,8 +10,13 @@ description: This thesis presents three storytelling systems for interactive poi
   the narrative model and story content, users can have rich interactive story experiences
   in which the interaction/interface does not distract from their engagement in the
   story.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/9102624a7f8a484e75b853b523aeb061_mazalek.pdf
+file: /media/courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/9102624a7f8a484e75b853b523aeb061_mazalek.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Tangible Interfaces for Interactive Point-of-View Narratives
 uid: 9102624a-7f8a-484e-75b8-53b523aeb061
