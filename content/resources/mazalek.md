@@ -17,6 +17,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 99f92a2c-3ee7-fc01-cc87-7dc19f39960a
 resourcetype: Document
 title: Tangible Interfaces for Interactive Point-of-View Narratives
 uid: 9102624a-7f8a-484e-75b8-53b523aeb061
