@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides details on the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -47,7 +48,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-First Assignment ([PDF]({{< baseurl >}}/resources/first_assign))
+First Assignment ({{% resource_link 66de4085-4c46-7b75-5900-a6ca65027c75 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +57,7 @@ First Assignment ([PDF]({{< baseurl >}}/resources/first_assign))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Midterm Assignment ([PDF]({{< baseurl >}}/resources/mid_assign))
+Midterm Assignment ({{% resource_link 1b9650da-fb7e-3bf9-0d4c-31c4bf70aec7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +66,7 @@ Midterm Assignment ([PDF]({{< baseurl >}}/resources/mid_assign))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Final Assignment ([PDF]({{< baseurl >}}/resources/final_assign))
+Final Assignment ({{% resource_link cd321814-2c8a-c831-a6f5-a37adbc36e4c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

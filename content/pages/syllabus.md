@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description, course meeting
+  times, and information on the visiting artists.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
