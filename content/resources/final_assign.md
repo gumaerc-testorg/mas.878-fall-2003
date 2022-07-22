@@ -5,6 +5,7 @@ file: /courses/mas-878-special-topics-in-multimedia-production-experiences-in-in
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Final Assignment
 uid: cd321814-2c8a-c831-a6f5-a37adbc36e4c
 ---
 Instructions for the an assignment to create an interactive art piece.
-

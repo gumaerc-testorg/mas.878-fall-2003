@@ -7,6 +7,7 @@ file: /courses/mas-878-special-topics-in-multimedia-production-experiences-in-in
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: First Assignment
 uid: 66de4085-4c46-7b75-5900-a6ca65027c75
 ---
 Instructions for an assignment to create a short personal presentation describing an interest or past involvement with interactive art and ideas for creating an art piece.
-
