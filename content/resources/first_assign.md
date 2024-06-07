@@ -4,6 +4,7 @@ description: Instructions for an assignment to create a short personal presentat
   describing an interest or past involvement with interactive art and ideas for creating
   an art piece.
 file: /courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/66de40854c467b755900a6ca65027c75_first_assign.pdf
+file_size: 63907
 file_type: application/pdf
 learning_resource_types:
 - Assignments
