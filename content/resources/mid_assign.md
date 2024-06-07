@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment to create a proposal for an interactive art piece.
 file: /courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/1b9650dafb7e3bf90d4c31c4bf70aec7_mid_assign.pdf
+file_size: 62611
 file_type: application/pdf
 learning_resource_types:
 - Assignments
