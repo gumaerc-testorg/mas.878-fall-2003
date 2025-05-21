@@ -2,7 +2,7 @@
 content_type: resource
 description: One frame from an animation on interactive cinema. (Image courtesy of
   the Interactive Cinema Group.)
-file: /ol-ocw-studio-app/courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/15151669917f55f98190e70ba3886985_mas-878f03-th.jpg
+file: /courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/15151669917f55f98190e70ba3886985_mas-878f03-th.jpg
 file_size: 2585
 file_type: image/jpeg
 image_metadata:
