@@ -10,7 +10,7 @@ description: This thesis presents three storytelling systems for interactive poi
   the narrative model and story content, users can have rich interactive story experiences
   in which the interaction/interface does not distract from their engagement in the
   story.
-file: /ol-ocw-studio-app/courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/9102624a7f8a484e75b853b523aeb061_mazalek.pdf
+file: /courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/9102624a7f8a484e75b853b523aeb061_mazalek.pdf
 file_size: 467635
 file_type: application/pdf
 learning_resource_types:
