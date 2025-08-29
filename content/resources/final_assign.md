@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for the an assignment to create an interactive art piece.
-file: /courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/cd3218142c8ac831a6f5a37adbc36e4c_final_assign.pdf
+file: /ol-ocw-studio-app/courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/cd3218142c8ac831a6f5a37adbc36e4c_final_assign.pdf
 file_size: 64634
 file_type: application/pdf
 learning_resource_types:
