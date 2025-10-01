@@ -7,7 +7,8 @@ file_size: 2585
 file_type: image/jpeg
 image_metadata:
   caption: "One frame from an animation on interactive cinema.\_(Image courtesy of\
-    \ the\_[Interactive Cinema Group](http://ic.media.mit.edu.).)"
+    \ the\_{{% resource_link \"66d9a849-712b-4840-ab11-911f9dde063c\" \"Interactive\
+    \ Cinema Group\" %}}.)"
   credit: ''
   image-alt: A number of overlapping and fading white words on a blue background.
 learning_resource_types: []
